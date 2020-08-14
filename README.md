@@ -2,4 +2,4 @@
 
 
 Solves Sudokus
-working but not finished
+- working but not finished
